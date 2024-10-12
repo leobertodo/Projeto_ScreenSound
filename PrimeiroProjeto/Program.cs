@@ -50,7 +50,7 @@ class Program
                 break;
             case -1: Console.WriteLine("Você escolheu a opção " + opcaoEscolhidaNumerica);
                 break;
-            default: Console.WriteLine("Opção Inválida");
+            default: Console.WriteLine("Opção falsa");
                 break;
         }
     }
